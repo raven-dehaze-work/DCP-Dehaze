@@ -1,7 +1,7 @@
 Implementing Code for Fog Removal Using Dark Channel
 
-- [English Version](https://github.com/raven-dehaze-work/DCP-Dehaze/README.md)
-- [Chinese Version](https://github.com/raven-dehaze-work/DCP-Dehaze/README-zh.md)
+- [English Version](<https://github.com/raven-dehaze-work/DCP-Dehaze/blob/master/README.md>)
+- [Chinese Version](<https://github.com/raven-dehaze-work/DCP-Dehaze/blob/master/README-zh.md>)
 
 ## 1. Demo
 

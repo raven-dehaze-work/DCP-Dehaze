@@ -1,7 +1,7 @@
 使用暗通道进行去雾实现代码。
 
-- [English Version](https://github.com/raven-dehaze-work/DCP-Dehaze/README.md)
-- [中文文档](https://github.com/raven-dehaze-work/DCP-Dehaze/README-zh.md)
+- [English Version](<https://github.com/raven-dehaze-work/DCP-Dehaze/blob/master/README.md>)
+- [中文文档](<https://github.com/raven-dehaze-work/DCP-Dehaze/blob/master/README-zh.md>)
 
 ## 1. 效果
 
