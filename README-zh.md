@@ -18,11 +18,14 @@
 1. [Single image haze removal using dark channel prior](https://ieeexplore.ieee.org/document/5567108)
 2. [Guided image filtering](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)
 
-个人推荐看的博文:
+Personally recommended blog posts:
 
-2. [《Single Image Haze Removal Using Dark Channel Prior》一文中图像去雾算法的原理、实现、效果（速度可实时）](<https://www.cnblogs.com/Imageshop/p/3281703.html>)
+3. [毕设总结二--论文复现工作1--暗通道去雾(DCP)](<https://www.ravenxrz.ink/2019/06/18/summary-2-paper-reproduction-1-dark-channel-defogging-dcp.html>)
+4. [《Single Image Haze Removal Using Dark Channel Prior》一文中图像去雾算法的原理、实现、效果（速度可实时）](<https://www.cnblogs.com/Imageshop/p/3281703.html>)
 
-3. [guided Filter--引导滤波算法原理及实现](<https://blog.csdn.net/piaoxuezhong/article/details/78372787>)
+4. [guided Filter--引导滤波算法原理及实现](
+
+1. <https://blog.csdn.net/piaoxuezhong/article/details/78372787>)
 
 ## 3. 其余去雾算法
 
